@@ -1,5 +1,5 @@
 # Gameplay Ideas
-It is gameplay ideas for <a href="https://github.com/Qfusion/qfusion">Qfusio</a> prototype game.
+It is gameplay ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototype game.
 
 ## General gameplay
 * Lower view height similar to QL/Q3
