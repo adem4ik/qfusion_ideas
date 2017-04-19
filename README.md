@@ -45,7 +45,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * CTF: Flag carrier indicator is visible for anyone and through the walls
 * UI for demolist / demoget
 * BOMB: defuse sound as in CS
-* Open installator out of box, or at least UI link to get it
+* OpenAL installator out of box, or at least UI link to get it
 * Possibility to disable map static sounds similar to QL s_ambient
 * UH/MH global spawn sound
 * MH dried up sound coming from the player
@@ -53,3 +53,4 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Gun bob on wall jump
 * HUD classic: move "Stunned" text higher
 * HUD default: move "low ammo" text below crosshair
+* Fix cg_flip for OpenAL
