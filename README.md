@@ -7,6 +7,8 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Smaller maps scalled accordingly to movement and view height changes
 * Slower projectiles
 * Smaller knockbacks
+* Unlimit ammo in warmup
+* Team mate indicator shows health similar to QL, needs more investigation of possible solutions
 
 ## Gametypes
 
@@ -16,41 +18,49 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 
 ### Bomb'n'defuse
 * Ammo box drops on frag
+* Defuse sound as in CS
 
-## List of improvements
-* Force own model/color for non-team based gametypes demos
-* Unlimit ammo in warmup
-* Team mate indicator shows health similar to QL, needs more investigation of possible solutions
-* TDM scorboard needs more investigation as there is possible miscalculations of score/net
-* Smooth transition from enemy color to gray on frag
+### FFA
+* Quad killer becomes quad carrier, none gets the quad on self kill
+
+### CTF
+* Restore Flag-carrier's HP, only when he not gets damaged
+* Flag carrier indicator is visible for anyone and through the walls
+
+### TDM
+* Scorboard needs more investigation as there are possible miscalculations of score/net
+
+## UI/HUD
 * Frag stemp like in volleyball for duels/tdm, place needs more investigation
-* cg_quadqaunter, cg_followkiller for demos and TV
-* Leader score in DM on HUD
-* Resotore desktop resolution after alt+tab from fullscreen
-* Weapon placement indicators on missing weapon bind key press like in Xonotic
-* Console transparency
-* Item timers for client side demos like in WolfcamQL, so unknown timers are shown as "-" or "x"
+* Leader score in DM/FFA on HUD
 * Trick indicator as complementation/replacement for pressed keys
-* Dust from jumps including on jumppads
+* Item timers for client side demos on HUD like in WolfcamQL, so unknown timers are shown as "-" or "x"
 * Transparent/grey font for the servers w/o players in the server browser
-* Player view beam in demos/TV
 * Ingame wiki
 * HUD message "press ESC to use Demo Panel" /add it to my HUD with cg_showhelp "1"
-* "timescale -X.X" for the back rewind
 * Team mates indicators on HUD for invisible team mates
-* FFA: quad killer becomes quad carrier, none gets the quad on self kill
+* HUD classic: move "Stunned" text higher
+* HUD default: move "low ammo" text below crosshair
+* UI for demolist / demoget
+
+## Engine/graphics/others
+* Force own model/color for non-team based gametypes demos
+* Smooth transition from enemy color to gray on frag
+* cg_quadqaunter, cg_followkiller for demos and TV
+* Restore desktop resolution after alt+tab from fullscreen
+* Weapon placement indicators on missing weapon bind key press like in Xonotic
+* Console transparency
+* Dust from jumps including on jumppads
+* Player view beam in demos/TV
+* "timescale -X.X" for the back rewind
 * Particles from enemy model coming after hit
 * Indication when player can't pickup an armor - no symbol, hud message, gray model
-* CTF: restore Flag-carrier's HP, only when he not gets damaged
-* CTF: Flag carrier indicator is visible for anyone and through the walls
-* UI for demolist / demoget
-* BOMB: defuse sound as in CS
 * OpenAL installator out of box, or at least UI link to get it
 * Possibility to disable map static sounds similar to QL s_ambient
 * UH/MH global spawn sound
 * MH dried up sound coming from the player
 * Low ammo sound as in QL
 * Gun bob on wall jump
-* HUD classic: move "Stunned" text higher
-* HUD default: move "low ammo" text below crosshair
 * Fix cg_flip for OpenAL
+* Global chat message on power-up pickup
+* Global for spectators, team only for player chat messages of item pickups (not weapons)
