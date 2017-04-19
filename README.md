@@ -27,9 +27,6 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Restore Flag-carrier's HP, only when he not gets damaged
 * Flag carrier indicator is visible for anyone and through the walls
 
-### TDM
-* Scorboard needs more investigation as there are possible miscalculations of score/net
-
 ## UI/HUD
 * Frag stemp like in volleyball for duels/tdm, place needs more investigation
 * Leader score in DM/FFA on HUD
