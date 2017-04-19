@@ -54,7 +54,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Player view beam in demos/TV
 * "timescale -X.X" for the back rewind
 * Particles from enemy model coming after hit
-* Indication when player can't pickup an armor - no symbol, hud message, gray model
+* Indication when player can't pickup an armor - no symbol/hud message/gray model/something else
 * OpenAL installator out of box, or at least UI link to get it
 * Possibility to disable map static sounds similar to QL s_ambient
 * UH/MH global spawn sound
