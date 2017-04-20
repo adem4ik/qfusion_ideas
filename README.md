@@ -63,3 +63,4 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Global chat message on power-up pickup
 * Global for spectators, team only for player chat messages of item pickups (not weapons)
 * Sound on dropping weapon by bind
+* Add trail effect for MG bullets
