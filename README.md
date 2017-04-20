@@ -39,6 +39,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * HUD classic: move "Stunned" text higher
 * HUD default: move "low ammo" text below crosshair
 * UI for demolist / demoget
+* Improve team info bar http://i.imgur.com/qLWy7gi.png
 
 ## Engine/graphics/others
 * Force own model/color for non-team based gametypes demos
