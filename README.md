@@ -64,3 +64,4 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Global for spectators, team only for player chat messages of item pickups (not weapons)
 * Sound on dropping weapon by bind
 * Add trail effect for MG bullets
+* Add damage plums/numbers as a replacement of cartoon hits effect
