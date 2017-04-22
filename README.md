@@ -8,7 +8,6 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Slower projectiles
 * Smaller knockbacks
 * Unlimit ammo in warmup
-* Team mate indicator shows health similar to QL, needs more investigation of possible solutions
 
 ## Gametypes
 
@@ -65,3 +64,5 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Sound on dropping weapon by bind
 * Add trail effect for MG bullets
 * Add damage plums/numbers as a replacement of cartoon hits effect
+* Team mate indicator shows health similar to QL, needs more investigation of possible solutions
+* Team mate indicator use Power Up icon if the player has one of PU
