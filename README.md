@@ -66,3 +66,4 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Add damage plums/numbers as a replacement of cartoon hits effect
 * Team mate indicator shows health similar to QL, needs more investigation of possible solutions
 * Team mate indicator use Power Up icon if the player has one of PU
+* Save console input into text file in order to scroll through the whole history (az it was done in ezQuake)
