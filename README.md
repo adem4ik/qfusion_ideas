@@ -39,6 +39,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * HUD default: move "low ammo" text below crosshair
 * UI for demolist / demoget
 * Improve team info bar http://i.imgur.com/qLWy7gi.png
+* Limit fps in UI to 62, when player isn't connected to any server
 
 ## Engine/graphics/others
 * Force own model/color for non-team based gametypes demos
@@ -69,3 +70,4 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Save console input into text file in order to scroll through the whole history (az it was done in ezQuake)
 * Fix a bug where grenade can't jump at the same time with the player
 * Spec feature: AP/HP/DMG difference graph as in Dota 2
+* Transparent items when they are blocking player view
