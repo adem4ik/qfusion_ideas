@@ -27,6 +27,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Flag carrier indicator is visible for anyone and through the walls
 
 ## UI/HUD
+* Hotkeys for the menu
 * Frag stemp like in volleyball for duels/tdm, place needs more investigation
 * Leader score in DM/FFA on HUD
 * Trick indicator as complementation/replacement for pressed keys
