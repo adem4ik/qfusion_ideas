@@ -8,6 +8,8 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Slower projectiles
 * Smaller knockbacks
 * Unlimit ammo in warmup
+* Warmup similar to Qw, where no frags happen
+* Remove stun
 
 ## Gametypes
 
