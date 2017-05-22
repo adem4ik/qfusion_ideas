@@ -42,7 +42,8 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * HUD default: move "low ammo" text below crosshair
 * UI for demolist / demoget
 * Improve team info bar http://i.imgur.com/qLWy7gi.png
-* Limit fps in UI to 62, when player isn't connected to any server
+* ~~Limit fps in UI to 60, when player isn't connected to any server~~
+* Show walljump cooldown indicator in cg_ShowPressedKeys
 
 ## Engine/graphics/others
 * Force own model/color for non-team based gametypes demos
