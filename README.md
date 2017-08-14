@@ -75,3 +75,6 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Fix a bug where grenade can't jump at the same time with the player
 * Spec feature: AP/HP/DMG difference graph as in Dota 2
 * Transparent items when they are blocking player view
+
+## Server
+* Cross-platform GUI with minimum requirements (possibly written on Go)
