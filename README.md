@@ -69,6 +69,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Fix a bug where grenade can't jump at the same time with the player on jump-pad
 * Spec feature: AP/HP/DMG difference graph as in Dota 2
 * Transparent items when they are blocking player view
+* Don't start the demo until screen is loaded. It often happens when you have high disk or cpu usage, that the demo playback is already started in the background, while the screen is shown after a while
 
 ## Sound
 * OpenAL installator out of box, or at least UI link to get it
