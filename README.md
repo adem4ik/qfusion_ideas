@@ -74,10 +74,14 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * OpenAL installator out of box, or at least UI link to get it
 * Possibility to disable map static sounds similar to QL s_ambient
 * UH/MH global spawn sound
-* MH dried up sound coming from the player
+* MH dried up sound coming from the player possibly with gfx effect
 * Low ammo sound as in QL
 * Fix cg_flip for OpenAL
-* Sound on dropping weapon by bind
+* Sound on dropping weapon/ammo by bind
+
+## Linux
+* Disable KDE compositor while the game is in full-screen
+* Disable any hotkeys apart from WIN/META & Alt+Enter & Alt+TAB while the game is in fullscreen
 
 ## Server
 * Cross-platform GUI with minimum requirements (possibly written on Go)
