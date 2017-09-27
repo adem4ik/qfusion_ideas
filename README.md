@@ -81,7 +81,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Sound on dropping weapon/ammo by bind
 
 ## Linux
-* Disable KDE compositor while the game is in full-screen
+* ~~Disable KDE compositor while the game is in full-screen~~ (already works as expected)
 * Disable any hotkeys apart from WIN/META & Alt+Enter & Alt+TAB while the game is in fullscreen
 
 ## Server
