@@ -37,8 +37,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * HUD classic: move "Stunned" text higher
 * HUD default: move "low ammo" text below crosshair
 * UI for demolist / demoget
-* Improve team info bar
-<img src="images/ql_team_info.png" />
+* Improve team info bar <img src="images/ql_team_info.png" />
 * ~~Limit fps in UI to 60, when player isn't connected to any server~~
 * Show walljump cooldown indicator in cg_ShowPressedKeys
 * Rework minimap to radar to show only a part of a map with navigation to important items (like in Xonotic)
