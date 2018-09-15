@@ -5,7 +5,8 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Unlimit ammo in warmup
 * Warmup similar to QW, where no damage happens, only knockbacks and hitsounds
 * Remove stun
-* Remove dead bodies' damage 
+* Remove dead bodies' damage
+* Remove fall damage
 
 ## Gametypes
 
