@@ -7,6 +7,7 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Remove stun
 * Remove dead bodies' damage
 * Remove fall damage
+* Show Grenades trajectory before firing in order to predict their behaviour
 
 ## Gametypes
 
