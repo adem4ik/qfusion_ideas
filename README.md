@@ -2,7 +2,7 @@
 It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototype game. Mostly just changes that should be done in compare with <a href="https://warsow.net">Warsow 2.1</a>.
 
 ## General gameplay
-* Unlimit ammo in warmup
+* Unlimited ammo in warmup (set via cvar e.g. g_unlimited_ammo_warmup 1) 
 * Warmup similar to QW, where no damage happens, only knockbacks and hitsounds
 * Remove stun
 * Remove dead bodies' damage
