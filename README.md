@@ -47,7 +47,8 @@ It is ideas for <a href="https://github.com/Qfusion/qfusion">Qfusion</a> prototy
 * Show actual binds near weapon bar and pressed keys
 * Show weapon icons/siluette near the weapon names in Settings - Input
 * Rework scoreboard using librocket
-* Rework menu after connecting to the server 
+* Rework menu after connecting to the server
+* Add local time panel with cg_showLocalTime option
 
 ## Engine/graphics/others
 * Force own model/color for non-team based gametypes demos
